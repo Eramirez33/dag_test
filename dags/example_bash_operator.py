@@ -16,6 +16,7 @@
 # specific language governing permissions and limitations
 # under the License.
 # LINEA AGREGADA PARA VER SINCRONIZACION
+# LINEA AGREGADA ER 1
 """Example DAG demonstrating the usage of the BashOperator."""
 
 from datetime import timedelta
